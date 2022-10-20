@@ -1,3 +1,3 @@
 n = input()
-a = chr(n)
+a = chr(int(n))
 print(a)
